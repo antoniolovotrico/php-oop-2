@@ -1,0 +1,11 @@
+
+.user_card{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+.role_card{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
